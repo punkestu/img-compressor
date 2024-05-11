@@ -67,7 +67,7 @@
       accept=".jpg,.jpeg,.png"
     />
   </section>
-  <section class="grid grid-cols-2 gap-4">
+  <section class="grid md:grid-cols-2 gap-4">
     {#if files}
       <aside class="flex flex-col gap-2">
         <button
